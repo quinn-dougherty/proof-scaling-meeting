@@ -39,20 +39,6 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/quinn-dougherty/proof-scaling-meeting",
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ["rss", "atom"],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/quinn-dougherty/proof-scaling-meeting",
-          // Useful options to enforce blogging best practices
-          onInlineTags: "warn",
-          onInlineAuthors: "warn",
-          onUntruncatedBlogPosts: "warn",
-        },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -64,7 +50,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Proof Scaling Meeting",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
@@ -74,7 +60,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Information",
         },
         {
           href: "https://github.com/quinn-dougherty/proof-scaling-meeting",
@@ -96,7 +82,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `built ${Date.now()}`,
+      copyright: `built ${new Date().getDate()} ${new Date().getTime()}`,
     },
     prism: {
       theme: prismThemes.github,

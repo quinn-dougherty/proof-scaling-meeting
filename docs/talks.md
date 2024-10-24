@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Day one: talks
 
 ## 8 - 9:30:

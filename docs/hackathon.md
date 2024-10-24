@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Day two: hackathon and unconference
 
 The unconference schedule will be on a whiteboard in the venue

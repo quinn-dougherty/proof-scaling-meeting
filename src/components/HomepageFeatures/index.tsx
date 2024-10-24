@@ -26,7 +26,10 @@ const FeatureList: FeatureItem[] = [
       <>
         We welcome you to{" "}
         <a href="https://lighthaven.space">Lighthaven's campus</a>, onsite
-        accommodations available.
+        <a href="https://www.havenbookings.space/events/eternal-september">
+          accommodations
+        </a>{" "}
+        available.
       </>
     ),
   },
