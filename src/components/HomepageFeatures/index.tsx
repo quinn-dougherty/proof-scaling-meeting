@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "ML4FV and FV4ML",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/existsxpx.svg").default,
     description: (
       <>
         Machine learning for formal verification and formal verification for
@@ -21,22 +21,22 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "The beautiful Lighthaven campus",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/lightcone.svg").default,
     description: (
       <>
         We welcome you to{" "}
         <a href="https://lighthaven.space">Lighthaven's campus</a>, onsite
-        accommodations may be available (?)
+        accommodations available.
       </>
     ),
   },
   {
-    title: "Powered by React",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    title: "Make sure you register",
+    Svg: require("@site/static/img/forallxpx.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        <a href="https://forms.gle/YU6eXCRKofFGiLKfA">Registration form here</a>
+        . Please await confirmation email
       </>
     ),
   },
