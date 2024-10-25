@@ -21,8 +21,8 @@ Lunch and networking
 ## 2:30 - 3:
 Break and Networking
 ## 3 - 4:
+- Pentagraph (Leni Aniva)
 - Proofs in the Wild (Mike Dodds)
-- TBD
 ## 4 - 4:30:
 Break and networking
 ## 4:30 - 5:
