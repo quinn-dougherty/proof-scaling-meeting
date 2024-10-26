@@ -46,6 +46,17 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
+  {
+    title: "Don't post docs site or registration link publicly",
+    Svg: require("@site/static/img/forallxpx.svg").default,
+    description: (
+      <>
+        We have room for more of your colleagues, but please nominate them in
+        the appropriate field of the registration form or email us so we can
+        reach out to them instead of sending them these links.
+      </>
+    ),
+  },
 ];
 
 function Feature({ title, Svg, description }: FeatureItem) {
