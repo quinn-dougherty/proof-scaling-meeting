@@ -51,9 +51,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/forallxpx.svg").default,
     description: (
       <>
-        We have room for more of your colleagues, but please nominate them in
-        the appropriate field of the registration form or email us so we can
-        reach out to them instead of sending them these links.
+        We have room for more of your colleagues, you can send them this
+        website, but we may not accept everyone who registers. Please do so only
+        in DMs/emails and not in public.
       </>
     ),
   },
