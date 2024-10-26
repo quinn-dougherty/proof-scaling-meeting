@@ -2,9 +2,11 @@ import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
+const now = new Date();
+
 const config: Config = {
   title: "Proof Scaling Meeting",
-  tagline: "December 5-6 2024 - Berkeley, California",
+  tagline: `December 5-6 2024 | Berkeley, California | 20-40 people on AIxFV`,
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -37,7 +39,8 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/quinn-dougherty/proof-scaling-meeting",
+          editUrl:
+            "https://github.com/quinn-dougherty/proof-scaling-meeting/tree/master",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -53,7 +56,7 @@ const config: Config = {
       title: "Proof Scaling Meeting",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/proof.svg",
       },
       items: [
         {
@@ -82,7 +85,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `built ${new Date().getDate()} ${new Date().getTime()}`,
+      copyright: `built ${now.getMonth() + 1}-${now.getDate()}-${now.getFullYear()}`,
     },
     prism: {
       theme: prismThemes.github,

@@ -15,7 +15,10 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Machine learning for formal verification and formal verification for
-        machine learning
+        machine learning. Bringing leading practitioners and academics together
+        to discuss ML to scale and automate formal methods will inspire new
+        ideas and help clarify some of the bigger picture opportunities and
+        applications
       </>
     ),
   },
@@ -25,7 +28,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         We welcome you to{" "}
-        <a href="https://lighthaven.space">Lighthaven's campus</a>, onsite
+        <a href="https://lighthaven.space">Lighthaven's campus</a>, onsite{" "}
         <a href="https://www.havenbookings.space/events/eternal-september">
           accommodations
         </a>{" "}
