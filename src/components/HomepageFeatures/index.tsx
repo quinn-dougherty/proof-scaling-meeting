@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "ML4FV and FV4ML",
-    Svg: require("@site/static/img/proof.svg").default,
+    Svg: require("@site/static/img/existsxpx.svg").default,
     description: (
       <>
         Machine learning for formal verification and formal verification for
@@ -38,7 +38,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Make sure you register",
-    Svg: require("@site/static/img/proof.svg").default,
+    Svg: require("@site/static/img/forallxpx.svg").default,
     description: (
       <>
         <a href="https://forms.gle/YU6eXCRKofFGiLKfA">Registration form here</a>
