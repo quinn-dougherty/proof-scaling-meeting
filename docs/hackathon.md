@@ -6,11 +6,11 @@ sidebar_position: 3
 
 The unconference schedule will be on a whiteboard in the venue, which begins blank. You can begin populating it with sessions during day one.
 
-Venue opens whenever, lunch served at noon ish, dinner served at 6p, venue closes whenever.
+Venue opens whenever, lunch served at noon, dinner served at 6p, venue closes whenever.
 
-## Project ideas
+## Hackathon Project Ideas
 
-To add a project idea, send a PR to [this markdown file](Ohttps://github.com/quinn-dougherty/proof-scaling-meeting/tree/master/docs)
+To add a project idea, send a PR to [this markdown file](https://github.com/quinn-dougherty/proof-scaling-meeting/tree/master/docs)
 
 ### Solve fvapps
 

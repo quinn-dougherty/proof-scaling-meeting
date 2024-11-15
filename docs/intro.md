@@ -14,9 +14,9 @@ The venue is in downtown Berkeley. Address will be in confirmation email.
 
 Light standing breakfast both days (cereals, bagels, fruit) starting around 8a.
 
-Registration starts at 8a December 5th with the first talk at 9:30. Lunch will be 12-1:30p. Dinner will be served at 5:30p. 
+Registration starts at 8a December 5th with the first [talk](talks) at 9:30. Lunch will be 12-1:30p. Dinner will be served at 5:30p. 
 
-December 6th is more free form, but punctuated with lunch and dinner at 12p and 6p. 
+December 6th is more [free form](hackathon), but punctuated with lunch and dinner at 12p and 6p. 
 
 The venue has fire pits and no one will chase you out, so feel free to hang out.
 
