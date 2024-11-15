@@ -19,3 +19,7 @@ https://huggingface.co/datasets/quinn-dougherty/fvapps
 ### Transpile Flocq to Lean
 
 We'd like to do numerical analysis in lean4. Use [victor taelin-style loops](https://github.com/VictorTaelin/AI-scripts) to convert [flocq](https://flocq.gitlabpages.inria.fr/) to lean4
+
+### Synthetic Proof Repair Data Generation with Denoising
+
+https://docs.google.com/document/d/1R4HkreEUVLn1_LavdkigXIthwZbs4unNEWCTibWuhOk/edit?usp=sharing
