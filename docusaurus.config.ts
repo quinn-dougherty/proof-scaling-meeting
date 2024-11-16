@@ -85,7 +85,14 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `built ${now.getMonth() + 1}-${now.getDate()}-${now.getFullYear()}`,
+      //logo: {
+      //  alt: "Near Sponsorship",
+      //  src: "img/near.svg",
+      //  href: "https://near.org/ai",
+      //  // width: 160,
+      //  // height: 51,
+      //},
+      copyright: `Built ${now.getMonth() + 1}-${now.getDate()}-${now.getFullYear()}`,
     },
     prism: {
       theme: prismThemes.github,

@@ -8,11 +8,11 @@ The scope of the meeting is at the intersection of formal verification and machi
 
 ## Location
 
-The venue is in downtown Berkeley. Address will be in confirmation email.
+The venue is in downtown Berkeley. Address will be in confirmation email after you [register](https://forms.gle/YU6eXCRKofFGiLKfA)
 
 ## Schedule: highlights
 
-Light standing breakfast both days (cereals, bagels, fruit) starting around 8a.
+Light standing breakfast both days (cereals, bagels, fruit) starting around 8a both days.
 
 Registration starts at 8a December 5th with the first [talk](talks) at 9:30. Lunch will be 12-1:30p. Dinner will be served at 5:30p. 
 

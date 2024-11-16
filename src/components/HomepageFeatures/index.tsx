@@ -46,6 +46,19 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
+  {
+    title: "Sponsored by Near AI",
+    Svg: require("@site/static/img/near.svg").default,
+    description: (
+      <>
+        Whether it's expertise, mindshare, adoption, developer experience, AI
+        infrastructure, institutional support, funding, or the mission of
+        supporting user-owned AI, <a href="https://near.org/ai">NEAR</a>{" "}
+        Protocol is becoming the go-to choice for those building at the
+        intersection of AI and Web3.
+      </>
+    ),
+  },
 ];
 
 function Feature({ title, Svg, description }: FeatureItem) {
