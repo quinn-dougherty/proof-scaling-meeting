@@ -84,6 +84,15 @@ const config: Config = {
             },
           ],
         },
+        {
+          title: "Sponsors",
+          items: [
+            {
+              label: "Near AI",
+              to: "https://near.org/ai",
+            },
+          ],
+        },
       ],
       //logo: {
       //  alt: "Near Sponsorship",
