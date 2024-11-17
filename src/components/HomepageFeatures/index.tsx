@@ -59,6 +59,17 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
+  {
+    title: "Sponsored by Beneficial AI Foundation",
+    Svg: require("@site/static/img/baif.svg").default,
+    description: (
+      <>
+        <a href="https://www.beneficialaifoundation.org">BAIF</a> supports a
+        broad range of technical AI safety research though staff research,
+        university partnerships and its Buterin Fellowship program.
+      </>
+    ),
+  },
 ];
 
 function Feature({ title, Svg, description }: FeatureItem) {

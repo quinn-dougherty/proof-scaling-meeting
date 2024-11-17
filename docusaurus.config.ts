@@ -91,6 +91,10 @@ const config: Config = {
               label: "Near AI",
               to: "https://near.org/ai",
             },
+            {
+              label: "Beneficial AI Foundation",
+              to: "https://www.beneficialaifoundation.org/",
+            },
           ],
         },
       ],
