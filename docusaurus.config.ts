@@ -100,7 +100,7 @@ const config: Config = {
         {
           title: "Organized by",
           items: [
-            { label: "Quinn Dougherty", to: "https://quinn-dougherty.com" },
+            { label: "Quinn Dougherty", to: "https://quinnd.net" },
             { label: "Atlas Computing", to: "https://atlascomputing.org/" },
           ],
         },
