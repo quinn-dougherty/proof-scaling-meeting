@@ -97,6 +97,13 @@ const config: Config = {
             },
           ],
         },
+        {
+          title: "Organized by",
+          items: [
+            { label: "Quinn Dougherty", to: "https://quinn-dougherty.com" },
+            { label: "Atlas Computing", to: "https://atlascomputing.org/" },
+          ],
+        },
       ],
       //logo: {
       //  alt: "Near Sponsorship",
