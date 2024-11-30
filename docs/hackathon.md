@@ -22,4 +22,4 @@ We'd like to do numerical analysis in lean4. Use [victor taelin-style loops](htt
 
 ### Synthetic Proof Repair Data Generation with Denoising
 
-https://docs.google.com/document/d/1R4HkreEUVLn1_LavdkigXIthwZbs4unNEWCTibWuhOk/edit?usp=sharing
+Formal verification is in many ways an easier task than [discovering solutions to IMO problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/).  We'd like to explore [some ideas](https://docs.google.com/document/d/1R4HkreEUVLn1_LavdkigXIthwZbs4unNEWCTibWuhOk/edit?usp=sharing) for training models to automate formal verification tasks that require significant engineering effort but no novel formal methods research (e.g., "translate CompCert into Lean", or "CompCert, but for Rust").
