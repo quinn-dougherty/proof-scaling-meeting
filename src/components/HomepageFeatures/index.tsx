@@ -39,12 +39,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: "Make sure you register",
     Svg: require("@site/static/img/universal-quantifier.svg").default,
-    description: (
-      <>
-        <a href="https://forms.gle/YU6eXCRKofFGiLKfA">Registration form here</a>
-        . Please await confirmation email
-      </>
-    ),
+    description: <>Registration is closed</>,
   },
   {
     title: "Sponsored by Near AI",
