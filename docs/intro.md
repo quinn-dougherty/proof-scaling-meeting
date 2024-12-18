@@ -2,6 +2,10 @@
 sidebar_position: 1
 ---
 
+# Proof Scaling Meeting 2024 was held December 5-6, and was a roaring success
+
+![qed](/img/qed.jpeg)
+
 # Docs
 
 The scope of the meeting is at the intersection of formal verification and machine learning. Proof scaling is an important component of several AI safety agendas, and we expect that bringing leading practitioners and academics together, with a practical focus on using ML to scale formal methods, would inspire new ideas and help clarify some of the bigger picture AI Safety opportunities and applications
